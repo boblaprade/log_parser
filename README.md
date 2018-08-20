@@ -1,4 +1,5 @@
-# log_parserBob Laprade
+# log_parser
+Bob Laprade - 2018
 robert.laprade@gmail.com
 
 The following assets are included to demonstrate load a web access LOG data into MySql and to query that data for specific entries that meet the provided search criteria.
