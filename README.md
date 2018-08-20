@@ -14,7 +14,7 @@ README.MD - This file
 
 After updating the application.properties file entries with the appropriate connectivity settings for your environment, the application can be run using the following command line:
 
-java -jar parser.jar --startDate=2017-01-01.15:00:00 --duration=hourly --threshold=200
+<b>java -jar parser.jar --startDate=2017-01-01.15:00:00 --duration=hourly --threshold=200</b>
 
 Parameters and values are validated, duration defaults to "hourly" and threshold defaults 100
 
